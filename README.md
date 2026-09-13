@@ -29,3 +29,5 @@ To view all options:
 ```cmd
 python clip_downloader.py --help
 ```
+
+<!-- last-checked: 2026-09-13 -->
