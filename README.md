@@ -30,4 +30,4 @@ To view all options:
 python clip_downloader.py --help
 ```
 
-<!-- last-checked: 2026-11-02 -->
+<!-- last-checked: 2026-11-03 -->
